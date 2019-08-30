@@ -1,4 +1,5 @@
 # SOP_vpt
+
 SOP_vpt is a Houdini SOP level path tracing exercise based on Physically Based Rendering (more info at [pbrt.org](pbrt.org)). It is purely for educational purposes and designed to implement modern rendering algorithms such as: Monte Carlo Integration, Multiple importance sampling etc. The real end goal is to be able to render volumetrics on a grid (hence vpt: volumetric path tracer) 
 
 ![My image](https://github.com/sergeneren/SOP_vpt/blob/master/images/sample.png)
